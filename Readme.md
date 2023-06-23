@@ -37,4 +37,11 @@ This is the backend for a movie ticket booking portal web application. It provid
 cd MovieTicketBookingBackend
 npm install
 
+Starting the Server
+
+1. Run the following command to start the server:
+npm start
+
+2. The server will start running on the specified port (default: 3000). You should see the following message in the console:
+Server is running on port <server_port>
 
